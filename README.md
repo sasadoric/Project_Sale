@@ -1,4 +1,4 @@
-# Project_Sale
+# Project_Sale in SQL and Tableau
 
 In Project_Sale in SQl following queries were made: 
 
