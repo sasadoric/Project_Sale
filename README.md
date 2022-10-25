@@ -17,4 +17,4 @@ In Tableu one pie chart, one line chart and one map were created :
 
 Dashboard has 2 filter actions, one that runs on select and another on hover, both tageting filters on pie chart.
 
-This Dashboard is available on my Tableau Public profile.
+This Dashboard is available on my Tableau Public profile https://public.tableau.com/app/profile/sasa3095 -"Sales Dashboard".
