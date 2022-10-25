@@ -15,4 +15,6 @@ In Tableu one pie chart, one line chart and one map were created :
 2.Pie chart shows sale by item of sale or sale article;
 3.Map shows sale by territory, with countries shaded by sale numbers 
 
-Dashboard has 2 filter actions, one that runs on select and another running on hover, both action taget filters on pie chart.
+Dashboard has 2 filter actions, one that runs on select and another on hover, both tageting filters on pie chart.
+
+This Dashboard is available on my Tableau Public profile.
